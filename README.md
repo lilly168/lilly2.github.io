@@ -1,13 +1,7 @@
 # ds-likelion-2020.github.io
 
-## 덕성여대 스터디: github page 배포하기
-## 만든사람 이은정 (덕성멋사 8기)
+## v2.
 
-
-<img src='static/likelionds.png' alt='사자머리' width='200px' height='200px'></img>
-
-<br/>
-<hr/>
 
 ## <b>수정사항 반영하기</b>
 

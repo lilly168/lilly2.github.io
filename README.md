@@ -21,7 +21,7 @@
 
         $   git push origin master
         
-        를 입력하면 ds-likelion-2020에서 확인할 수 있습니다.
+        를 입력하면 lilly2.github.io의 readme에서 확인할 수 있습니다.
 <br/>
 
 ## 마크다운 작성법 참고:
